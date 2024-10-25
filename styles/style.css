@@ -521,7 +521,6 @@ nav {
     }
 
     .gal-items img {
-        margin-left: 90px;
         flex-wrap: wrap;
         max-width: 60%;
     }
