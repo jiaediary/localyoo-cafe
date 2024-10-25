@@ -417,7 +417,7 @@ nav {
 .gal-items img {
     max-width: 300px;
     margin: 10px;
-    align-items: center;
+    padding-left: 50px;
     cursor: pointer;
 }
 
@@ -522,7 +522,7 @@ nav {
 
     .gal-items img {
         flex-wrap: wrap;
-        max-width: 100%;
+        max-width: 60%;
     }
 
     .footer .footer-container {
