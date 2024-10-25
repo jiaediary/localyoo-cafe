@@ -78,7 +78,7 @@ nav {
     font-size: 7vmin;
     margin-bottom: 20px;
     font-family: var(--main-font-family);
-    color: #080e00;
+    color: #ecf5e0;
 }
 
 .hero-section p {
@@ -86,6 +86,7 @@ nav {
     margin-bottom: 20px;
     font-family: var(--second-font-family);
     font-weight: 700;
+    color: #fafcf9;
 }
 
 .hero-button {
@@ -510,6 +511,11 @@ nav {
 
     .hero-section p {
         font-size: 3vmin;
+    }
+
+    .box-area {
+        display: flex;
+        flex-direction: column;
     }
 
     .testimonial-box {
