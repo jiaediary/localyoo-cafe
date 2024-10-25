@@ -522,7 +522,7 @@ nav {
 
     .gal-items img {
         flex-wrap: wrap;
-        max-width: 60%;
+        max-width: 100%;
     }
 
     .footer .footer-container {
